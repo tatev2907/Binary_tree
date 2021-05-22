@@ -1,7 +1,6 @@
 
 
 class Binary_Search_Tree:
-
   class __BST_Node
     def __init__(self, value):
       self.value = value
